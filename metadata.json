@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Control de Gastos",
+  "description": "Aplicación moderna y offline de control de gastos con soporte para gastos fijos, diarios y de tarjeta de crédito.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
